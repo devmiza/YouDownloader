@@ -1,0 +1,9 @@
+# ----------------------------------------------------
+# Requisitos para o projeto YouDownloader (Desktop)
+# ----------------------------------------------------
+
+# Biblioteca para baixar vídeos do YouTube
+yt-dlp
+
+# Biblioteca para criar o executável (.exe)
+pyinstaller
